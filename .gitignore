@@ -1,0 +1,8 @@
+/target 
+.idea 
+consulta-leasing-rest.iml 
+/.idea
+.project
+*iml
+.classpath
+.settings
